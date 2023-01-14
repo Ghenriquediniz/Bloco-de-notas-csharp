@@ -38,7 +38,7 @@ namespace Note
                 }
                 else
                 {
-                    MessageBox.Show("Arquivo vazio");
+                    MessageBox.Show("Arquivo vazio.", "Alert..", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
             }
             catch (Exception ex)
