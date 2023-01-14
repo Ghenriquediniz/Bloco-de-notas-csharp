@@ -1,0 +1,11 @@
+C:\Users\guigu\OneDrive\GUI\Bloco de notas\Note\bin\Release\Note.exe.config
+C:\Users\guigu\OneDrive\GUI\Bloco de notas\Note\bin\Release\Note.exe
+C:\Users\guigu\OneDrive\GUI\Bloco de notas\Note\bin\Release\Note.pdb
+C:\Users\guigu\OneDrive\GUI\Bloco de notas\Note\obj\Release\Note.csproj.AssemblyReference.cache
+C:\Users\guigu\OneDrive\GUI\Bloco de notas\Note\obj\Release\Note.csproj.SuggestedBindingRedirects.cache
+C:\Users\guigu\OneDrive\GUI\Bloco de notas\Note\obj\Release\Note.Bloco.resources
+C:\Users\guigu\OneDrive\GUI\Bloco de notas\Note\obj\Release\Note.Properties.Resources.resources
+C:\Users\guigu\OneDrive\GUI\Bloco de notas\Note\obj\Release\Note.csproj.GenerateResource.cache
+C:\Users\guigu\OneDrive\GUI\Bloco de notas\Note\obj\Release\Note.csproj.CoreCompileInputs.cache
+C:\Users\guigu\OneDrive\GUI\Bloco de notas\Note\obj\Release\Note.exe
+C:\Users\guigu\OneDrive\GUI\Bloco de notas\Note\obj\Release\Note.pdb
